@@ -1,5 +1,9 @@
 # AI Security Baseline on AWS using Terraform
 
+## Architecture 
+
+![Architecture](architecture.png)
+
 ## Overview
 
 This project implements a secure AWS infrastructure baseline using Terraform. It demonstrates cloud security best practices including encryption, centralized logging, secrets management, identity controls, network isolation, and cost monitoring.
