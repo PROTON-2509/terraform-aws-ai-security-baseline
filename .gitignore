@@ -9,6 +9,7 @@
 terraform.tfvars
 
 # Terraform plan files
+tfplan
 *.tfplan
 
 # Crash logs
